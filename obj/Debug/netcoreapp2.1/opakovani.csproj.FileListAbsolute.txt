@@ -1,0 +1,11 @@
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\obj\Debug\netcoreapp2.1\opakovani.csprojAssemblyReference.cache
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\obj\Debug\netcoreapp2.1\opakovani.csproj.CoreCompileInputs.cache
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\obj\Debug\netcoreapp2.1\opakovani.AssemblyInfoInputs.cache
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\obj\Debug\netcoreapp2.1\opakovani.AssemblyInfo.cs
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\bin\Debug\netcoreapp2.1\opakovani.deps.json
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\bin\Debug\netcoreapp2.1\opakovani.runtimeconfig.json
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\bin\Debug\netcoreapp2.1\opakovani.runtimeconfig.dev.json
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\bin\Debug\netcoreapp2.1\opakovani.dll
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\bin\Debug\netcoreapp2.1\opakovani.pdb
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\obj\Debug\netcoreapp2.1\opakovani.dll
+C:\Users\kurka.on.2022\source\repos\opakovani\opakovani\obj\Debug\netcoreapp2.1\opakovani.pdb
